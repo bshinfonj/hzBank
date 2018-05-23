@@ -12,7 +12,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://mlearing-platform.365yunxueyuan.com/service/ios/bank.ipa</string>
+					<string>http://10.0.0.174:9094/service/ios/hzlh.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -20,19 +20,19 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://mlearing-platform.365yunxueyuan.com/service/bankClient.png</string>
+					<string>http://10.0.0.174:9094/service/hzlhClient.png</string>
 			    </dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.bshinfo.bank</string>
+				<string>com.bshinfo.hzlh</string>
 				<key>bundle-version</key>
 				<string>1.0.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>银行云学院</string>
+				<string>联合课堂</string>
 			</dict>
 		</dict>
 	</array>
