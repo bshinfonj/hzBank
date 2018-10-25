@@ -12,7 +12,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://39.108.116.185:9092/service/ios/hzbank.ipa</string>
+					<string>http://test.365yunxueyuan.com/service/ios/hzbank.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -20,7 +20,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://39.108.116.185:9092/service/bankClient.png</string>
+					<string>http://test.365yunxueyuan.com/service/bankClient.png</string>
 			    </dict>
 			</array>
 			<key>metadata</key>
@@ -32,7 +32,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>联合课堂</string>
+				<string>联银学院</string>
 			</dict>
 		</dict>
 	</array>
